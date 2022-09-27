@@ -1,7 +1,7 @@
 {
   "name": "vue-imagen-drag",
   "description" : "Drap and Drop and select image", 
-  "version": "1.0.0",
+  "version": "2.0.1",
   "main": "dist/vue-imagen-drag.umd.js",
   "module": "dist/vue-imagen-drag.esm.js",
   "unpkg": "dist/vue-imagen-drag.min.js",
@@ -54,7 +54,7 @@
     "vue-template-compiler": "^2.6.14",
     "rollup": "^2.26.8",
     "rollup-plugin-buble": "^0.19.8",
-    "rollup-plugin-vue": "^6.0.0-beta.10"
+    "rollup-plugin-vue": "^5.1.6"
   },
   "eslintConfig": {
     "root": true,
