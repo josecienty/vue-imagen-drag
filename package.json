@@ -1,7 +1,7 @@
 {
   "name": "vue-imagen-drag",
   "description" : "Drap and Drop and select image", 
-  "version": "2.0.1",
+  "version": "2.1.1",
   "main": "dist/vue-imagen-drag.umd.js",
   "module": "dist/vue-imagen-drag.esm.js",
   "unpkg": "dist/vue-imagen-drag.min.js",
